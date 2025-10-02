@@ -128,7 +128,7 @@ export function Gallery() {
           </Button>
 
           <p className="text-amber-700 text-sm mt-4">
-            See all our farm photos and daily life moments
+            See all our farm photos and daily life moments.
           </p>
         </motion.div>
 
