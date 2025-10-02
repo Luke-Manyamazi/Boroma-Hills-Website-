@@ -3,7 +3,7 @@ import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
 import { GraduationCap, Heart, Users, BookOpen, Church } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import familyImage from "../images/family02.jpg";
+import family02 from "../images/family02.jpg";
 
 export function AboutUs() {
   return (
@@ -44,7 +44,7 @@ export function AboutUs() {
               className="relative overflow-hidden rounded-3xl shadow-xl"
             >
               <ImageWithFallback
-                src={familyImage}
+                src={family02}
                 alt="Our family at Boroma Hills"
                 className="w-full h-80 object-cover"
               />
