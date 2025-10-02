@@ -5,7 +5,7 @@ import { ExternalLink, Images } from "lucide-react";
 
 // Import local images
 import field from "../images/field.jpg";
-import family01 from "/src/images/family01.jpg";
+import family01 from "../images/family01.jpg";
 import house from "../images/house.jpg";
 import goats from "../images/goats.jpg";
 
