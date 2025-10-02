@@ -5,7 +5,7 @@ import { ExternalLink, Images } from "lucide-react";
 
 // Import local images
 import field from "../images/field.jpg";
-import family1 from "../images/family01.jpg";
+import family01 from "../images/family01.jpg";
 import house from "../images/house.jpg";
 import goats from "../images/goats.jpg";
 
@@ -26,7 +26,7 @@ const galleryImages = [
     category: "Land",
   },
   {
-    src: family1,
+    src: family01,
     alt: "Our family at Boroma Hills",
     category: "Family",
   },
