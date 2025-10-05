@@ -2,9 +2,9 @@ import { motion } from "motion/react";
 import { useState, useEffect } from "react";
 import { Button } from "./ui/button";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import hero1 from "../images/goats02.jpg";
-import hero2 from "../images/field01.jpg";
-import hero3 from "../images/house02.jpg";
+import hero1 from "../images/goats02.webp";
+import hero2 from "../images/field01.webp";
+import hero3 from "../images/house02.webp";
 
 const heroImages = [
   {

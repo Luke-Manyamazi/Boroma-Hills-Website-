@@ -2,7 +2,7 @@ import { motion } from "motion/react";
 import { Badge } from "./ui/badge";
 import { MapPin, Home } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import houseImage from "../images/house02.jpg";
+import houseImage from "../images/house02.webp";
 
 export function CurrentStatus() {
   return (

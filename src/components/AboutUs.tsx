@@ -3,7 +3,7 @@ import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
 import { GraduationCap, Heart, Users, BookOpen, Church } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import family02 from "../images/family02.jpg";
+import family02 from "../images/family02.webp";
 
 export function AboutUs() {
   return (

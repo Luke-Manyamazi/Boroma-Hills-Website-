@@ -13,14 +13,14 @@ import {
 } from "lucide-react";
 
 // import images from local
-import fenceImage from "../images/fence.jpg";
-import goatKraalImage from "../images/goatKraal01.jpeg";
-import cropFieldImage from "../images/vegetables.jpg";
-import pigImage from "../images/pigs.jpg";
-import fruitImage from "../images/fruits.png";
-import bsfImage from "../images/bsf.png";
-import kidsImage from "../images/kidsAcademy.png";
-import communityImage from "../images/community.jpg";
+import fenceImage from "../images/fence.webp";
+import goatKraalImage from "../images/goatKraal01.webp";
+import cropFieldImage from "../images/vegetables.webp";
+import pigImage from "../images/pigs.webp";
+import fruitImage from "../images/fruits.webp";
+import bsfImage from "../images/bsf.webp";
+import kidsImage from "../images/kidsAcademy.webp";
+import communityImage from "../images/community.webp";
 
 const projects = [
   {

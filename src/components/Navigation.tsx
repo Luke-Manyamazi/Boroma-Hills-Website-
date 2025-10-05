@@ -2,7 +2,7 @@ import { motion } from "motion/react";
 import { useState, useEffect } from "react";
 import { Button } from "./ui/button";
 import { Menu, X } from "lucide-react";
-import logo from "../images/logo.png"; // ✅ import your logo
+import logo from "../images/logo.webp"; // ✅ import your logo
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
