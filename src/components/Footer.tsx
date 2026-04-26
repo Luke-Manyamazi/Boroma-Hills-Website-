@@ -7,7 +7,7 @@ import {
   Facebook,
   MessageCircle,
 } from "lucide-react";
-import logo from "../images/logo.png"; // ✅ import logo
+import logo from "../images/logo.webp"; // ✅ import logo
 
 export function Footer() {
   return (
